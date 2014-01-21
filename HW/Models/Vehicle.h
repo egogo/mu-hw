@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface Vehicle : NSObject
-@property NSString *identifier;
+@property (strong, nonatomic) NSString *identifier;
 @end

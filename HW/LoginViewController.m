@@ -7,12 +7,18 @@
 //
 
 #import "LoginViewController.h"
+#import "User.h"
 
 @interface LoginViewController ()
 
 @end
 
 @implementation LoginViewController
+- (IBAction)loginButtonPressed:(id)sender {
+    User *user = [User userWithUsername:self.loginTextField.text andPassword:self.passwordTextField.text];
+    
+    [user login];
+}
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {

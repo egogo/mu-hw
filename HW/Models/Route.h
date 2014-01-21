@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface Route : NSObject
-@property NSString *name;
+@property (strong, nonatomic) NSString *name;
 @end
