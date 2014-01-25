@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3437B7A2-9761-4A81-8420-41DD1C38BBE5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HW</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EFD685A9-E024-4BDD-A440-77734D404DD4</key>
+		<string>ssh://github.com/egogo/mu-hw.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HW.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EFD685A9-E024-4BDD-A440-77734D404DD4</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/egogo/mu-hw.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EFD685A9-E024-4BDD-A440-77734D404DD4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EFD685A9-E024-4BDD-A440-77734D404DD4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HW</string>
+		</dict>
+	</array>
+</dict>
+</plist>
